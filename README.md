@@ -1,6 +1,6 @@
 # LangChain & LLM Learning Projects
 
-A collection of 15 mini-projects built while learning through a [Coursera course (share link)](https://coursera.org/share/7adc4b512f8df1366a0489e6dddcb248). The projects are organised in one repository so the code, experiments, and lessons can be explored together.
+A collection of 15 mini-projects built while learning through a [Coursera course](https://coursera.org/share/7adc4b512f8df1366a0489e6dddcb248). The projects are organised in one repository so the code, experiments, and lessons can be explored together.
 
 Many projects are adapted or reimplemented from course demonstrations and source material, then adjusted for learning with Gemini, current LangChain APIs, local embeddings, or FAISS where appropriate. This is a learning portfolio, not a set of production-ready applications.
 
@@ -84,4 +84,4 @@ streamlit run ".\01_Q-A Application\app.py"
 
 ## Course context and attribution
 
-These projects were assembled as hands-on practice while following the [Coursera course/share link provided for this learning journey](https://coursera.org/share/7adc4b512f8df1366a0489e6dddcb248). Some projects are based on course examples or source material and have been modified for practice. 
+These projects were assembled as hands-on practice while following the [Coursera course](https://coursera.org/share/7adc4b512f8df1366a0489e6dddcb248). Some projects are based on course examples or source material and have been modified for practice. 
