@@ -1,0 +1,10 @@
+Sample call transcript (fictional; for testing only)
+
+Customer: Hello, my internet connection has been dropping since yesterday.
+Representative: I'm sorry you're having trouble. I'll run through a few checks with you.
+Customer: I restarted the router, but it still disconnects every few minutes.
+Representative: Thank you for trying that. I checked the service status and there is a known issue in your area. Our network team is investigating it.
+Customer: Do you know when it will be fixed?
+Representative: I don't have a confirmed restoration time yet. The team will update the service-status page when there is progress.
+Customer: Okay, I will check the status page. Thank you for explaining.
+Representative: You're welcome, and I'm sorry for the inconvenience. Please contact us again if the issue continues after the area issue is resolved.

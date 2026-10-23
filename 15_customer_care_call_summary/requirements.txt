@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+python-dotenv>=1.0.1
+faster-whisper>=1.1.0
+langchain-core>=0.3.30
+langchain-google-genai>=2.0.10
+pydantic>=2.7.0

@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Local secrets (keep .env.example templates tracked)
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Python and tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and local runtime data
+*.log
+*.sqlite
+*.sqlite3
+*.db
+**/tickets.db
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# Downloaded model weights / generated vector indexes
+**/models/
+**/vector_store/
+**/faiss_index/

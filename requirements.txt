@@ -1,0 +1,21 @@
+# Combined environment for running any of the 15 projects.
+# To install a smaller set of dependencies, use that project's requirements.txt.
+streamlit>=1.40.0,<2.0
+python-dotenv>=1.0.1,<2.0
+langchain>=1.0,<2.0
+langchain-core>=1.0,<2.0
+langchain-community>=0.4,<1.0
+langchain-text-splitters>=1.0,<2.0
+langchain-google-genai>=4.0,<5.0
+langchain-huggingface>=1.0,<2.0
+sentence-transformers>=3.3.0
+faiss-cpu>=1.9.0
+pandas>=2.2,<4.0
+pydantic>=2.7,<3.0
+pypdf>=5.0.0
+scikit-learn>=1.6.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+ddgs>=9.0.0
+faster-whisper>=1.1.0
